@@ -1,2 +1,2 @@
-# boringproject
-A random game site I'm making.
+<h1>Project 95</h1>
+<br />
