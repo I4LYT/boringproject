@@ -1,2 +1,2 @@
-<h1>Project 95</h1>
-<br />
+# Project 95
+-# Using FastAPI cuz I hate Flask
